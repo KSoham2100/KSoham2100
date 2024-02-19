@@ -5,7 +5,7 @@ Hello!👋 My name is Soham Kulkarni. I'm from IIT Madras taking BS in Data Scie
 I have a great intrest in Deep Learning, AI/ML, Neural Networks and much more! Currently I'm learning backend web dev with python, Database Management and Machine Learning Foundations<br>
 
 Skills:<BR>
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,bash,vim,python,html,css,flask,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,bash,vim,python,html,css,flask,postgres,powershell)](https://skillicons.dev)
 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Web Dev
